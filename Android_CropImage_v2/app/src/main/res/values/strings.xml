@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crop_Image</string>
+    <string name="defaultRoot">Root Coordinates</string>
+    <string name="defaultStartPos">Start Position</string>
+    <string name="defaultCurrentPos">Current Position</string>
+    <string name="defaultRectangle">Rectangle</string>
+</resources>
